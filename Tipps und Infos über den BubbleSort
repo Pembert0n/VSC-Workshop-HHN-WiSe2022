@@ -1,0 +1,14 @@
+Prinzip
+
+Beim Bubblesort Algorithmus wird ein Array – also eine Eingabe-Liste – immer paarweise 
+von links nach rechts (oder rechts nach links) in einer sogenannten Bubble-Phase durchlaufen. 
+Man startet also mit der ersten Zahl und vergleicht diese dann mit ihrem direkten Nachbarn 
+nach dem Sortierkriterium. Sollten beide Elemente nicht in der richtigen Reihenfolge sein, 
+werden sie ganz einfach miteinander vertauscht. 
+Danach wird direkt das nächste Paar miteinander verglichen, 
+bis die gesamte Liste einmal durchlaufen wurde. 
+Die Phase wird so oft wiederholt, bis der gesamte Array vollständig sortiert ist.
+
+
+Ihr braucht für den Bubblesort eine Funktion, die eine Liste schrittweiße durchläuft.
+Tipp: In der Funktion ist möglichweise ein range(start, stop, step) enthalten.

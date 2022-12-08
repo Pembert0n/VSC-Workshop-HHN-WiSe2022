@@ -1,0 +1,7 @@
+Damit Visual Studio Code (VSC) Python interpretieren kann, muss die Pythonextension installiert werden.
+
+Wie ihr die Pythonextension istallieren könnt:
+
+1. Links auf das Symbol mit den Vierecken gehen (oder CRTL+SHIFT+X).
+2. nach Python suchen und auf installieren klicken
+3. Fertig
